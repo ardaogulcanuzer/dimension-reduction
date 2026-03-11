@@ -99,4 +99,8 @@ Using Manhattan distance produces a slightly different spatial representation bu
 
 ---
 
-## Project Structure
+## Goal
+
+The goal of this project is to demonstrate how dimensionality reduction techniques such as **PCA and MDS** can help uncover patterns in high-dimensional sensory datasets.
+
+These techniques are widely used in exploratory data analysis and machine learning for understanding complex datasets.
